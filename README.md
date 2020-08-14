@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there :wave:
+***
 
-<!--
-**mfragger/mfragger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance game developer using Unity and DOTS API. 
 
-Here are some ideas to get you started:
+Developing games has been my dream and its a dream come true in whatever form that I get to have jobs that gets me to develop games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+***
+
+:video_game: Building my own anime - gacha game using Unity DOTS.
+
+:pencil2: Writing some pages about DOTS in this (community wiki)[https://github.com/DOTS-Discord/Unity-DOTS-Discord/wiki]
+
+:bookmark_tabs: Finishing some contract work.
+
+### Long term plan?
+***
+
+:computer: make my own OS!
+
+### Want to chill talk?
+***
+
+DM me over at Discord! mfragger#5158.
