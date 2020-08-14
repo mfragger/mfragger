@@ -8,7 +8,7 @@ Developing games has been my dream and its a dream come true in whatever form th
 ### Current Focus
 ***
 
-:video_game: Building my own anime - gacha game using Unity DOTS.
+:video_game: Building my own anime-gacha game using Unity DOTS.
 
 :pencil2: Writing some pages about DOTS in this (community wiki)[https://github.com/DOTS-Discord/Unity-DOTS-Discord/wiki]
 
