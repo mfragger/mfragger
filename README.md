@@ -12,12 +12,7 @@ Developing games has been my dream and its a dream come true in whatever form th
 
 :pencil2: Writing some pages about DOTS in this [community wiki](https://github.com/DOTS-Discord/Unity-DOTS-Discord/wiki)
 
-:bookmark_tabs: Finishing some contract work.
-
-### Long term plan?
-***
-
-:computer: make my own OS!
+:bookmark_tabs: doing some unity DOTS tutorials.
 
 ### Want to chill talk?
 ***
