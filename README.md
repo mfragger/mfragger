@@ -10,9 +10,7 @@ Developing games has been my dream and its a dream come true in whatever form th
 
 :video_game: Building my own anime-gacha game using Unity DOTS.
 
-:pencil2: Writing some pages about DOTS in this [community wiki](https://github.com/DOTS-Discord/Unity-DOTS-Discord/wiki)
-
-:bookmark_tabs: doing some unity DOTS tutorials.
+:pencil2: Writing a [blog](https://github.com/mfragger/my-blog)
 
 ### Want to chill talk?
 ***
