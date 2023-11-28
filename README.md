@@ -8,4 +8,5 @@
 
 | Websites I've built | Framework |
 | ----------------- | ----------------- |
-| | No framework |
+| [PastaPalete](https://mfragger.github.io/PastaPalete/) - [Source](https://github.com/mfragger/PastaPalete) | No framework + Tailwind |
+
