@@ -2,7 +2,7 @@
 
 | Tools I've built  | Learning Section |
 | ----------------- | ---------------- |
-| [Animator Const Fields Generator for Unity](https://github.com/mfragger/AnimatorConstantFieldsGenerator) | [Learning Rust](https://github.com/mfragger/learning-rust)  |
+| [Animator Const Fields Generator for Unity](https://github.com/mfragger/AnimatorConstantFieldsGenerator) | [Rust Beginner Project](https://github.com/mfragger/rust-beginner-projects)  |
 | [Tags And Layers Const Fields Generator for Unity](https://github.com/mfragger/TagsAndLayersGenerator)  |  |
 | [Multi Tag System for Unity](https://github.com/mfragger/MultiTagSystem) (Archived) |  |
 
