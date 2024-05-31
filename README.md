@@ -5,7 +5,7 @@
 | [Animator Const Fields Generator for Unity](https://github.com/mfragger/AnimatorConstantFieldsGenerator) |
 | [Tags And Layers Const Fields Generator for Unity](https://github.com/mfragger/TagsAndLayersGenerator)  | 
 | [Multi Tag System for Unity](https://github.com/mfragger/MultiTagSystem) (Archived) | 
-| [Scriptable Object Architecutre](https://github.com/mfragger/ScriptableObjectArchitecture) (Archived) | 
+| [Scriptable Object Architecture](https://github.com/mfragger/ScriptableObjectArchitecture) (Archived) | 
 
 | Websites I've built | Framework |
 | ----------------- | ----------------- |
