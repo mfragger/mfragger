@@ -52,5 +52,15 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td rowspan=5>Rust</td>
+        </tr>
+        <tr>
+            <td colspan=2>
+                <a href="https://github.com/mfragger/rs-bit-packer">
+                  rs-bit-packer
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
